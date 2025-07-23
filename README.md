@@ -16,11 +16,17 @@ Tecnologias
 
 Estrutura do Projeto
 ├── README.md                           # Este arquivo
+
 ├── solution.md                         # Resolução completa com explicações
+
 ├── case-description.md                 # Descrição original do desafio
+
 └── queries/                           # Scripts SQL organizados
+
 ├── query_a_adimplencia_fevereiro.sql
+
 ├── query_b_lembretes_preventivos.sql
+
 └── query_c_inadimplencia_segmento.sql
 
 Abordagem
