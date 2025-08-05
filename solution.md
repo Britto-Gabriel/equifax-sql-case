@@ -1,4 +1,4 @@
-Resolução do Case SQL - Equifax
+Resolução do Case SQL - (empresa confidencial)
 
 Minha Abordagem
 Para resolver os desafios de inadimplência apresentados, estruturei as queries pensando no dia a dia operacional do time: primeiro entendendo nossa performance histórica, depois identificando oportunidades de prevenção, e por fim mapeando onde precisamos agir com mais urgência.
