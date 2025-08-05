@@ -1,7 +1,7 @@
-Case SQL - Equifax
+Case SQL 
 
 Sobre o Projeto
-Resolução de case técnico para posição de Inside Sales Analyst na Equifax, focado em análise de inadimplência e estratégias de cobrança preventiva.
+Resolução de case técnico para posição de Inside Sales Analyst, focado em análise de inadimplência e estratégias de cobrança preventiva.
 
 Desafio
 Desenvolver queries SQL para:
